@@ -1,2 +1,3 @@
-# data-analytics
-This repository focuses on data analytics concepts, projects, and resources developed through academic studies and practical experience.
+#  📈Data-Analytics📉
+
+Welcome to my data analytics repository. Here you'll find projects, datasets, visualizations, reports, and learning resources that demonstrate the skills and knowledge I've developed through coursework, personal research, and hands-on experience in data analytics.
